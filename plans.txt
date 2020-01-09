@@ -1,0 +1,7 @@
+Town
+- lvl 1 to 5 training area
+-- Training Area random encounter where M<=5
+
+Outside Monster
+- Slime
+-- H<=5
